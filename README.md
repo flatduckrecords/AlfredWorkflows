@@ -1,4 +1,4 @@
-# AlfredWorkflows
+# Alfred Workflows
 A collection of workflows for [Alfred](https://www.alfredapp.com/).
 
 ## Search the University of Stirling website
